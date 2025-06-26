@@ -18,11 +18,14 @@ Download the `.zip` version of the add-on
 
 1. In Blender, go to `Edit → Preferences`
 
-![Image Alt](https://github.com/zhonghuiart/Mesh-Fixer/blob/d3b412ca349a85e0c452a78fdd229ebba4203f4d/images/1.png)
+![Image Alt](https://github.com/zhonghuiart/Mesh-Fixer/blob/e7c18bdaadc873740e9f46d5ca29e0d017976033/images/1.png)
 
-3. Open the **Get Extensions** tab and click **Install from Disk**
-4. Select the `.zip` file you downloaded
-5. Enable the add-on by checking the box next to **Mesh Fixer**
+2. Open the **Get Extensions** tab and click **Install from Disk**
+
+![Image Alt](https://github.com/zhonghuiart/Mesh-Fixer/blob/e7c18bdaadc873740e9f46d5ca29e0d017976033/images/2.png)
+
+3. Select the `.zip` file you downloaded
+4. Enable the add-on by checking the box next to **Mesh Fixer**
 
 ---
 
