@@ -46,6 +46,8 @@ Open the right-hand toolbar in the 3D Viewport by pressing `N`. Navigate to the 
 
 ### ✅ 1. Apply Modifiers (Single or Batch)
 
+<img src="https://github.com/zhonghuiart/Mesh-Fixer/blob/4e14e52507ca53258cb1b58dab61b7c342fbec85/images/modifiers.png?raw=true" width="800">
+
 Automatically apply all modifiers on selected objects or the entire scene.
 
 - `To Selected` — Apply all modifiers to selected objects  
@@ -56,6 +58,8 @@ Useful for converting procedural models into editable geometry quickly.
 ---
 
 ### ✅ 2. Apply Transforms (Single or Batch)
+
+<img src="https://github.com/zhonghuiart/Mesh-Fixer/blob/4e14e52507ca53258cb1b58dab61b7c342fbec85/images/transform.png?raw=true" width="800">
 
 Fix issues caused by unapplied transformations, such as incorrect bevels, solidify thickness, or mirror scaling.
 
@@ -70,6 +74,8 @@ Ideal for ensuring export compatibility with Substance painter and UE, avoiding 
 ---
 
 ### ✅ 3. Check and Fix Face Orientation
+
+<img src="https://github.com/zhonghuiart/Mesh-Fixer/blob/4e14e52507ca53258cb1b58dab61b7c342fbec85/images/face.png?raw=true" width="800">
 
 Incorrect face normals can cause disappearing or broken geometry in Substance Painter or Unreal Engine.  
 This tool allows you to:
@@ -86,6 +92,8 @@ This tool allows you to:
 
 ### ✅ 4. Batch Assign and Rename Materials
 
+<img src="https://github.com/zhonghuiart/Mesh-Fixer/blob/4e14e52507ca53258cb1b58dab61b7c342fbec85/images/material.png?raw=true" width="800">
+
 Maintain clean material IDs when exporting to Substance Painter or UE, avoiding messy material settings.
 
 - Automatically assigns a new material to each object using its name + suffix
@@ -99,6 +107,8 @@ Example: An object named `Chair` will receive a material named `Chair_shader_1`.
 ---
 
 ### ✅ 5. One-Click Full Workflow Execution
+
+<img src="https://github.com/zhonghuiart/Mesh-Fixer/blob/4e14e52507ca53258cb1b58dab61b7c342fbec85/images/runall.png?raw=true" width="600">
 
 This button runs **all the above steps** in the proper order:
 
