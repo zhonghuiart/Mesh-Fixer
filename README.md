@@ -23,10 +23,13 @@ Download the `.zip` version of the add-on
 
 2. Open the **Get Extensions** tab and click **Install from Disk**
 
-<img src="https://github.com/zhonghuiart/Mesh-Fixer/blob/e7c18bdaadc873740e9f46d5ca29e0d017976033/images/2.png?raw=true" width="500">
+<img src="https://github.com/zhonghuiart/Mesh-Fixer/blob/e7c18bdaadc873740e9f46d5ca29e0d017976033/images/2.png?raw=true" width="600">
 
 3. Select the `.zip` file you downloaded
 4. Enable the add-on by checking the box next to **Mesh Fixer**
+
+<img src="https://github.com/zhonghuiart/Mesh-Fixer/blob/ce035da90605bf88d00df27849ae6220dd6f55e2/images/3.png?raw=true" width="600">
+
 
 ---
 
