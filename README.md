@@ -18,8 +18,7 @@ Download the `.zip` version of the add-on
 
 1. In Blender, go to `Edit → Preferences`
 
-
-
+![Image Alt](https://github.com/zhonghuiart/Mesh-Fixer/blob/d3b412ca349a85e0c452a78fdd229ebba4203f4d/images/1.png)
 
 3. Open the **Get Extensions** tab and click **Install from Disk**
 4. Select the `.zip` file you downloaded
