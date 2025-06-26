@@ -13,6 +13,7 @@ It automates tedious and repetitive tasks such as applying modifiers, transforms
 
 Download the `.zip` version of the add-on 
 
+<img src="https://github.com/zhonghuiart/Mesh-Fixer/blob/4ec720d34d75c0393038f3ded106fd86ac95b732/images/download.png" width="600">
 
 ---
 
@@ -38,6 +39,8 @@ Download the `.zip` version of the add-on
 ## 🔧 Features
 
 Open the right-hand toolbar in the 3D Viewport by pressing `N`. Navigate to the **Mesh Fixer** tab to access all functions:
+
+<img src="https://github.com/zhonghuiart/Mesh-Fixer/blob/4ec720d34d75c0393038f3ded106fd86ac95b732/images/4.png?raw=true" width="600">
 
 ---
 
