@@ -18,7 +18,7 @@ Download the `.zip` version of the add-on
 
 1. In Blender, go to `Edit → Preferences`
 
-![1](https://github.com/user-attachments/assets/c244c1f2-f19a-4a50-9323-c67cf82df334)
+
 
 
 3. Open the **Get Extensions** tab and click **Install from Disk**
