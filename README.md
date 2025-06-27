@@ -5,6 +5,8 @@
 A Blender add-on designed to **optimize the modeling and export workflow between Blender and Unreal Engine**.  
 It automates tedious and repetitive tasks such as applying modifiers, transforms, fixing normals, and organizing material IDs — saving time and reducing errors in production.
 
+🔗 Download the addon on Gumroad: [Mesh Fixer](https://zhonghuiart.gumroad.com/l/fxjnf)
+
 ---
 
 ## 🚀 Getting Started
