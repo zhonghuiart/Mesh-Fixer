@@ -40,7 +40,7 @@ Download the `.zip` version of the add-on
 
 Open the right-hand toolbar in the 3D Viewport by pressing `N`. Navigate to the **Mesh Fixer** tab to access all functions:
 
-<img src="https://github.com/zhonghuiart/Batch-Cleanup/blob/e2feab6874210a83019aa61baa7d75fa8ef6a36f/images/1findaddon.png?raw=true" width="1000">
+<img src="https://github.com/zhonghuiart/Batch-Cleanup/blob/80d250e67455a675f8f4d91f35ebed7635f2effb/images/1findaddon.png" width="1000">
 
 ---
 
