@@ -2,10 +2,10 @@
 
 <img src="https://github.com/zhonghuiart/Batch-Cleanup/blob/6b31ae3ba339616bcd1b84b12fed2fa0d6ebdb50/images/superhive.png" width="800"/>
 
-A Blender add-on designed to **optimize the modeling and export workflow between Blender and Unreal Engine**.  
-It automates tedious and repetitive tasks such as applying modifiers, transforms, fixing normals, and organizing material IDs — saving time and reducing errors in production.
+A Blender add-on designed to **optimize the modeling and export workflow**.  
+It automates tedious and repetitive cleaning and checking tasks such as applying modifiers, transforms, fixing normals, and organizing material IDs — saving time and reducing errors in production.
 
-🔗 Download the addon on Gumroad: [Mesh Fixer](https://zhonghuiart.gumroad.com/l/fxjnf)
+🔗 Download the addon on Gumroad: [Batch-Cleanup](https://zhonghuiart.gumroad.com/l/fxjnf)
 
 ---
 
@@ -14,8 +14,6 @@ It automates tedious and repetitive tasks such as applying modifiers, transforms
 ### 1️⃣ Download the Add-on
 
 Download the `.zip` version of the add-on 
-
-<img src="https://github.com/zhonghuiart/Mesh-Fixer/blob/4ec720d34d75c0393038f3ded106fd86ac95b732/images/download.png" width="600">
 
 ---
 
@@ -31,9 +29,9 @@ Download the `.zip` version of the add-on
 <img src="https://github.com/zhonghuiart/Mesh-Fixer/blob/e7c18bdaadc873740e9f46d5ca29e0d017976033/images/2.png?raw=true" width="600">
 
 3. Select the `.zip` file you downloaded
-4. Enable the add-on by checking the box next to **Mesh Fixer**
+4. Enable the add-on by checking the box next to **Batch-Cleanup**
 
-<img src="https://github.com/zhonghuiart/Mesh-Fixer/blob/ce035da90605bf88d00df27849ae6220dd6f55e2/images/3.png?raw=true" width="600">
+<img src="https://github.com/zhonghuiart/Batch-Cleanup/blob/37560b495e98683295b7c8323c97c7bcef5f4330/images/install.png?raw=true" width="600">
 
 
 ---
