@@ -38,17 +38,17 @@ Download the `.zip` version of the add-on
 
 ## 🔧 Features
 
-Open the right-hand toolbar in the 3D Viewport by pressing `N`. Navigate to the **Mesh Fixer** tab to access all functions:
+Open the right-hand toolbar in the 3D Viewport by pressing `N`. Navigate to the **Batch-Cleanup** tab to access all functions:
 
-<img src="https://github.com/zhonghuiart/Batch-Cleanup/blob/80d250e67455a675f8f4d91f35ebed7635f2effb/images/1findaddon.png" width="1000">
+<img src="https://github.com/zhonghuiart/Batch-Cleanup/blob/c9f113d61638be3c6aed662ee0ddf86eadd69119/images/1findaddon.png" width="1000">
 
 ---
 
 ### ✅ 1. Apply Modifiers (Single or Batch)
 
-<img src="https://github.com/zhonghuiart/Mesh-Fixer/blob/4e14e52507ca53258cb1b58dab61b7c342fbec85/images/modifiers.png?raw=true" width="800">
+<img src="https://github.com/zhonghuiart/Batch-Cleanup/blob/22f34a586610e74a14a96dee5ffaa62a62a5e41c/images/modifiers.png?raw=true" width="800">
 
-Automatically apply all modifiers on selected objects or the entire scene.
+Automatically apply all modifiers to selected objects or the entire scene, then merge by distance to clean up extra vertices.
 
 - `To Selected` — Apply all modifiers to selected objects  
 - `To All` — Apply all modifiers to all objects in the scene  
