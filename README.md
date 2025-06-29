@@ -59,7 +59,7 @@ Useful for converting procedural models into editable geometry quickly.
 
 ### ✅ 2. Apply Transforms (Single or Batch)
 
-<img src="https://github.com/zhonghuiart/Batch-Cleanup/blob/0945413ac81dc54e17ba4c872fe8645f4bb7cf18/images/transform.png?raw=true" width="800">
+<img src="https://github.com/zhonghuiart/Batch-Cleanup/blob/0945413ac81dc54e17ba4c872fe8645f4bb7cf18/images/transform.png?raw=true" width="1000">
 
 Fix issues caused by unapplied transformations, such as incorrect bevels, solidify thickness, or array scaling.
 
@@ -75,7 +75,7 @@ Ideal for ensuring export compatibility with Substance painter and UE, avoiding 
 
 ### ✅ 3. Check and Fix Face Orientation
 
-<img src="https://github.com/zhonghuiart/Batch-Cleanup/blob/0945413ac81dc54e17ba4c872fe8645f4bb7cf18/images/normals.png?raw=true" width="800">
+<img src="https://github.com/zhonghuiart/Batch-Cleanup/blob/0945413ac81dc54e17ba4c872fe8645f4bb7cf18/images/normals.png?raw=true" width="1000">
 
 Incorrect face normals can cause disappearing or broken geometry in Substance Painter or Unreal Engine.  
 This tool allows you to:
@@ -92,7 +92,7 @@ This tool allows you to:
 
 ### ✅ 4. Batch Assign and Rename Materials
 
-<img src="https://github.com/zhonghuiart/Batch-Cleanup/blob/0945413ac81dc54e17ba4c872fe8645f4bb7cf18/images/material.png?raw=true" width="800">
+<img src="https://github.com/zhonghuiart/Batch-Cleanup/blob/0945413ac81dc54e17ba4c872fe8645f4bb7cf18/images/material.png?raw=true" width="1000">
 
 Maintain clean material IDs when exporting to Substance Painter or UE, avoiding messy material settings. 
 The material ID function can be toggled on or off — enable it only when you want to generate or rename materials.
@@ -114,9 +114,12 @@ Example: An object named `Chair` will receive a material named `Chair_shader_1`.
 
 This button runs **all the above steps** in the proper order:
 
-- Apply modifiers  
-- Apply transforms  
-- Recalculate normals  
+- Apply modifiers
+  
+- Apply transforms
+  
+- Recalculate normals
+  
 - Assign materials  
 
 Click `Run` once your models are finalized to prepare the entire scene for export — fast and clean.
