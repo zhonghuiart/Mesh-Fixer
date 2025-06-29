@@ -1,4 +1,4 @@
-# 🧩 Mesh Fixer
+# 🧩 Batch-Cleanup
 
 <img src="https://github.com/zhonghuiart/Batch-Cleanup/blob/6b31ae3ba339616bcd1b84b12fed2fa0d6ebdb50/images/superhive.png" width="1000"/>
 
@@ -40,7 +40,7 @@ Download the `.zip` version of the add-on
 
 Open the right-hand toolbar in the 3D Viewport by pressing `N`. Navigate to the **Mesh Fixer** tab to access all functions:
 
-<img src="https://github.com/zhonghuiart/Mesh-Fixer/blob/4ec720d34d75c0393038f3ded106fd86ac95b732/images/4.png?raw=true" width="600">
+<img src="https://github.com/zhonghuiart/Batch-Cleanup/blob/e2feab6874210a83019aa61baa7d75fa8ef6a36f/images/1findaddon.png?raw=true" width="600">
 
 ---
 
