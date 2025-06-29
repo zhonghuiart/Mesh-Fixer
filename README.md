@@ -100,7 +100,7 @@ The material ID function can be toggled on or off — enable it only when you wa
 - Automatically assigns a new material to each object using its name + suffix
 - Existing materials will be suffixed with `_1`, `_2`, etc.
 
-- `checkbox` — Enable to auto-assign material IDs. Disable to skip.
+- `checkbox` — Enable to auto-assign material IDs. Disable to skip. (default: `disable`)
 - `Suffix` — Customize material suffix (default: `shader`)
 - `To All` — Assign material IDs to all objects  
 
