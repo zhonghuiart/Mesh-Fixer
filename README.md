@@ -110,7 +110,7 @@ Example: An object named `Chair` will receive a material named `Chair_shader_1`.
 
 ### ✅ 5. One-Click Full Workflow Execution
 
-<img src="https://github.com/zhonghuiart/Batch-Cleanup/blob/0945413ac81dc54e17ba4c872fe8645f4bb7cf18/images/runall.png?raw=true" width="600">
+<img src="https://github.com/zhonghuiart/Batch-Cleanup/blob/0945413ac81dc54e17ba4c872fe8645f4bb7cf18/images/runall.png?raw=true" width="1000">
 
 This button runs **all the above steps** in the proper order:
 
