@@ -1,6 +1,6 @@
 # 🧩 Mesh Fixer
 
-<img src="https://github.com/zhonghuiart/Mesh-Fixer/blob/70e06d7db22b4e3546538c26320f3e91ad11a437/images/coverlong.png?raw=true" width="800"/>
+<img src="https://github.com/zhonghuiart/Batch-Cleanup/blob/6b31ae3ba339616bcd1b84b12fed2fa0d6ebdb50/images/superhive.png" width="800"/>
 
 A Blender add-on designed to **optimize the modeling and export workflow between Blender and Unreal Engine**.  
 It automates tedious and repetitive tasks such as applying modifiers, transforms, fixing normals, and organizing material IDs — saving time and reducing errors in production.
