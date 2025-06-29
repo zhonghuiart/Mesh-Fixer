@@ -94,11 +94,13 @@ This tool allows you to:
 
 <img src="https://github.com/zhonghuiart/Batch-Cleanup/blob/0945413ac81dc54e17ba4c872fe8645f4bb7cf18/images/material.png?raw=true" width="800">
 
-Maintain clean material IDs when exporting to Substance Painter or UE, avoiding messy material settings.
+Maintain clean material IDs when exporting to Substance Painter or UE, avoiding messy material settings. 
+The material ID function can be toggled on or off — enable it only when you want to generate or rename materials.
 
 - Automatically assigns a new material to each object using its name + suffix
 - Existing materials will be suffixed with `_1`, `_2`, etc.
 
+- `checkbox` — Enable to auto-assign material IDs. Disable to skip.
 - `Suffix` — Customize material suffix (default: `shader`)
 - `To All` — Assign material IDs to all objects  
 
@@ -112,10 +114,10 @@ Example: An object named `Chair` will receive a material named `Chair_shader_1`.
 
 This button runs **all the above steps** in the proper order:
 
-1. Apply modifiers  
-2. Apply transforms  
-3. Recalculate normals  
-4. Assign materials  
+- Apply modifiers  
+- Apply transforms  
+- Recalculate normals  
+- Assign materials  
 
 Click `Run` once your models are finalized to prepare the entire scene for export — fast and clean.
 
