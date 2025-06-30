@@ -7,7 +7,7 @@
 A Blender add-on designed to **optimize the modeling and export workflow**.  
 It automates tedious and repetitive cleaning and checking tasks such as applying modifiers, transforms, fixing normals, and organizing material IDs — saving time and reducing errors in production.
 
-🔗 Download the addon on Gumroad: [Batch-Cleanup](https://zhonghuiart.gumroad.com/l/fxjnf)
+🔗 You can also find the addon on Gumroad: [Batch-Cleanup](https://zhonghuiart.gumroad.com/l/fxjnf)
 
 ---
 
@@ -16,6 +16,8 @@ It automates tedious and repetitive cleaning and checking tasks such as applying
 ### 1️⃣ Download the Add-on
 
 Download the `.zip` version of the add-on 
+
+<img src="https://github.com/zhonghuiart/Batch-Cleanup/blob/38cb7c8adb9b8827c2f0a133ba82d60b1c78e67b/images/download.png?raw=true" width="600"/>
 
 ---
 
