@@ -15,9 +15,9 @@ It automates tedious and repetitive cleaning and checking tasks such as applying
 
 ### 1️⃣ Download the Add-on
 
-Download the `.zip` version of the add-on 
+Download the `.zip` version of the add-on on this page 
 
-<img src="https://github.com/zhonghuiart/Batch-Cleanup/blob/38cb7c8adb9b8827c2f0a133ba82d60b1c78e67b/images/download.png?raw=true" width="600"/>
+<img src="https://github.com/zhonghuiart/Batch-Cleanup/blob/38cb7c8adb9b8827c2f0a133ba82d60b1c78e67b/images/download.png?raw=true" width="800"/>
 
 ---
 
