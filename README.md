@@ -1,6 +1,6 @@
 # 🧩 Batch-Cleanup
 
-**📮 小红书/Bilibili/公众号：@中灰HUI，插件安装、使用问题与更多3D学习可以添加微信：testinghui**
+## 📮 **小红书/Bilibili/公众号：@中灰HUI，   插件安装、使用问题与更多3D学习可以添加微信：testinghui**
 
 <img src="https://github.com/zhonghuiart/Batch-Cleanup/blob/6b31ae3ba339616bcd1b84b12fed2fa0d6ebdb50/images/superhive.png" width="1000"/>
 
