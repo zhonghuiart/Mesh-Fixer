@@ -1,13 +1,13 @@
 # 🧩 Batch-Cleanup
 
+**插件安装、使用问题与更多3D学习可以添加微信：testinghui**
+
 <img src="https://github.com/zhonghuiart/Batch-Cleanup/blob/6b31ae3ba339616bcd1b84b12fed2fa0d6ebdb50/images/superhive.png" width="1000"/>
 
 A Blender add-on designed to **optimize the modeling and export workflow**.  
 It automates tedious and repetitive cleaning and checking tasks such as applying modifiers, transforms, fixing normals, and organizing material IDs — saving time and reducing errors in production.
 
 🔗 Download the addon on Gumroad: [Batch-Cleanup](https://zhonghuiart.gumroad.com/l/fxjnf)
-
-**插件安装、使用问题与更多3D学习可以添加微信：testinghui**
 
 ---
 
